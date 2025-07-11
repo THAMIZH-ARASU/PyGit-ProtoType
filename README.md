@@ -2,12 +2,12 @@
 
 <p align="center">
   <pre>
-<span style="color: #00ff00; font-weight: bold;">      ____                    _______ __
-     / __ \__  __            / ____(_) /_
-    / /_/ / / / /  ______   / / __/ / __/
-   / ____/ /_/ /  /_____/  / /_/ / / /_
-  /_/    \__, /            \____/_/\__/,</span>
-<span style="color: #ffcc00; font-weight: bold;">        /____/</span>
+        <span style="color: #00ff00; font-weight: bold;">      ____                    _______ __
+             / __ \__  __            / ____(_) /_
+            / /_/ / / / /  ______   / / __/ / __/
+           / ____/ /_/ /  /_____/  / /_/ / / /_
+          /_/    \__, /            \____/_/\__/,</span>
+<span style="color: #ffcc00; font-weight: bold;">                /____/</span>
   </pre>
   <h2>Py <span style="color: #ffcc00;">-</span> <span style="color: #ff6600;">Git</span></h2>
 </p>
